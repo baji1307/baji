@@ -1,0 +1,2 @@
+# baji
+Python learning
